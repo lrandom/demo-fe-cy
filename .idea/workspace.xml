@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67410543-a811-47e7-b959-6388fbc97593" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="67410543-a811-47e7-b959-6388fbc97593" name="Changes" comment="Modify: content at index.html">
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="session-3" />
+                    <option name="lastUsedInstant" value="1728005371" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feat/login" />
                     <option name="lastUsedInstant" value="1727756578" />
@@ -59,13 +67,13 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feat/login",
+    "git-widget-placeholder": "session-3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +94,19 @@
       <updated>1727745802338</updated>
       <workItem from="1727745803344" duration="5411000" />
       <workItem from="1727755776535" duration="25000" />
+      <workItem from="1727833231181" duration="83000" />
+      <workItem from="1727833319563" duration="3840000" />
+      <workItem from="1728004936454" duration="10070000" />
     </task>
+    <task id="LOCAL-00001" summary="Modify: content at index.html">
+      <option name="closed" value="true" />
+      <created>1727756712981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727756712981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify: content at index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify: content at index.html" />
   </component>
 </project>

@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67410543-a811-47e7-b959-6388fbc97593" name="Changes" comment="Modify: content at index.html">
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index5.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +42,14 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="bt-demo-session-4" />
+                    <option name="lastUsedInstant" value="1728124020" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="session-4" />
+                    <option name="lastUsedInstant" value="1728123983" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="session-3" />
                     <option name="lastUsedInstant" value="1728005371" />
@@ -67,7 +83,8 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "session-3",
+    "git-widget-placeholder": "bt-demo-session-4",
+    "last_opened_file_path": "/Users/luan_prep_vn/WebstormProjects/fe_cy/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +94,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,6 +119,7 @@
       <workItem from="1727833231181" duration="83000" />
       <workItem from="1727833319563" duration="3840000" />
       <workItem from="1728004936454" duration="10070000" />
+      <workItem from="1728123868452" duration="12002000" />
     </task>
     <task id="LOCAL-00001" summary="Modify: content at index.html">
       <option name="closed" value="true" />

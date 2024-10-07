@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67410543-a811-47e7-b959-6388fbc97593" name="Changes" comment="Modify: content at index.html">
-      <change afterPath="$PROJECT_DIR$/assets/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex5.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +108,7 @@
       <workItem from="1727833231181" duration="83000" />
       <workItem from="1727833319563" duration="3840000" />
       <workItem from="1728004936454" duration="10070000" />
-      <workItem from="1728123868452" duration="12002000" />
+      <workItem from="1728123868452" duration="18164000" />
     </task>
     <task id="LOCAL-00001" summary="Modify: content at index.html">
       <option name="closed" value="true" />

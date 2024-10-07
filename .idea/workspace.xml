@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67410543-a811-47e7-b959-6388fbc97593" name="Changes" comment="Modify: content at index.html">
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="session-4" />
+                    <option name="lastUsedInstant" value="1728265995" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="session-3" />
                     <option name="lastUsedInstant" value="1728005371" />
@@ -67,7 +69,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "session-3",
+    "git-widget-placeholder": "session-4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

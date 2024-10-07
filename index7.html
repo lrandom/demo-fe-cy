@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document</title>
+</head>
+<body>
+<div class="animation-cube">
+    Animation Cube
+</div>
+
+<style>
+    .animation-cube {
+        background: red;
+        width: 100px;
+        height: 100px;
+        position: relative;
+        animation: move 2s infinite;
+    }
+
+    @keyframes move {
+        10% {
+            left: 10px;
+        }
+
+        20% {
+            left: 20px;
+        }
+
+        30% {
+            left: 30px;
+        }
+
+        40% {
+            left: 40px;
+        }
+
+        100% {
+            left: 200px;
+        }
+    }
+</style>
+</body>
+</html>

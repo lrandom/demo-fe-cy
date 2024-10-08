@@ -1,10 +1,14 @@
 .container {
+  background: blue;
   width: 999px;
   margin: 0 auto;
 }
 .container > header {
   background: blue;
   height: 20px;
+  border-radius: 14px;
+  -moz-border-radius: 14px;
+  -webkit-border-radius: 14px;
 }
 .container > header > div + p {
   background: red;

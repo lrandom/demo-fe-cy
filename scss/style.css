@@ -1,0 +1,16 @@
+.container {
+  width: 999px;
+  margin: 0 auto;
+}
+.container > header {
+  background: blue;
+  height: 20px;
+}
+.container > header > div + p {
+  background: red;
+}
+.container > header ul li:hover {
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */

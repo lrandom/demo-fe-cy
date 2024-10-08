@@ -1,0 +1,21 @@
+.container {
+  width: 999px;
+  margin: 0 auto;
+
+  >header {
+    background: blue;
+    height: 20px;
+    >div{
+      &+p{
+        background: red;
+      }
+    }
+    ul li{
+      &:hover{
+        color:green
+      }
+    }
+  }
+
+
+}
